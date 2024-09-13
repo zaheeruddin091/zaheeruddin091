@@ -12,10 +12,10 @@
   <br>
   
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaik-zaheeruddin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheeruddin091&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
       <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-zaheeruddin&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=false"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheeruddin091&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=false"/>
   </a>
 </div> 
 <br>
@@ -91,7 +91,7 @@
 <!--   ### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-zaheeruddin-252405217)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheeruddin091-252405217)
 
   
 <a href="#">

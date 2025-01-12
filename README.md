@@ -91,7 +91,8 @@
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-zaheeruddin-252405217/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/shaik-zaheeruddin)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/shaikzaheer/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/shaikzaheer/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23FFA116.svg?logo=twitter&logoColor=white)](https://x.com/dev_zaheer)
 
 
 

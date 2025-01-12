@@ -91,8 +91,8 @@
 ### 🔗 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/shaik-zaheeruddin-252405217/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/shaik-zaheeruddin"><img title="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/shaikzaheer/"><img title="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"></a>
+  <a href="https://github.com/zaheeruddin091"><img title="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/shaik0zaheeruddin/"><img title="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"></a>
   <a href="https://x.com/dev_zaheer"><img title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a>
 </div>
 

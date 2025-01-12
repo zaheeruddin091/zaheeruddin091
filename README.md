@@ -7,8 +7,9 @@
 
 <div align="center">  
   <div> 
-    🧑‍💻 <b>Currently working on MERN </b>🧑‍💻<br>🙏 <b>Looking to collaborate on MERN stack projects </b>🙏<br>🤝<b> Asking for help on DevOps </b>🤝<br>🌱 <b>Currently learning Cloud </b>🌱<br>
-  </div>
+    🧑‍💻 <b>Building scalable web applications </b>🧑‍💻<br>🙏 <b>Open to collaborating on impactful projects </b>🙏<br>🤝 <b>Exploring DevOps and Cloud solutions </b>🤝<br>🌱 <b>Continuously learning and growing </b>🌱<br>
+</div>
+
   <br>
   
   <a href="#">

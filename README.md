@@ -91,7 +91,12 @@
 <!--   ### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheeruddin091-252405217)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-zaheeruddin-252405217)  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/zaheeruddin091)
+  [![LeetCode](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://leetcode.com/shaik-zaheeruddin)
+  
+
+
 
   
 <a href="#">
